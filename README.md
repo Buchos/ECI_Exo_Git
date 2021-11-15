@@ -11,6 +11,6 @@ Pour cet exercice, ecrivez votre nom ci-dessous :
 --Dylan :)
 -- Romain, j'ai réussi hihi
 -- axel salut les bg
-
+-- Yo c Alex
 
 N'oubliez pas d'effectuer des commit fréquents et de bien les nommer !
