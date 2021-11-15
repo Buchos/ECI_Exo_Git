@@ -8,7 +8,7 @@ Cette plateforme héberge également la plus grande communauté en ligne de dév
 Pour cet exercice, ecrivez votre nom ci-dessous :
 
 -- Arthur
---Dylan :)
+--Dylan :(
 -- Romain, j'ai réussi hihi
 -- axel salut les bg
 -- Yo c Alex
